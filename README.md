@@ -2,8 +2,6 @@
 
 A production-ready full-stack task management application built with **MongoDB, Express, React, and Node.js**.
 
-![TaskFlow Dashboard](https://via.placeholder.com/900x500/3b82f6/ffffff?text=TaskFlow+Dashboard)
-
 ---
 
 ## Features
@@ -194,3 +192,7 @@ The app will run at `http://localhost:5173`
 ## License
 
 MIT
+
+## Authors
+
+- [@Khaja Mastan Shaik](https://github.com/rexter001)
