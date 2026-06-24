@@ -14,11 +14,11 @@ A production-ready full-stack task management application built with **MongoDB, 
 
 ### Dashboard
 
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](Screenshots/Dashboard.png)
 
 ### Tasks Page
 
-![Tasks Page](screenshots/tasks.png)
+![Tasks Page](Screenshots/Tasks.png)
 
 ---
 
